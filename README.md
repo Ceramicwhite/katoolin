@@ -21,7 +21,7 @@ apt install python2
 `
 
 `
-git clone https://github.com/nathmo/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
+git clone https://github.com/ceramicwhite/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
 `
 
 `
